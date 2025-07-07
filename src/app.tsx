@@ -1,6 +1,5 @@
 import { BrowserRouter } from "react-router-dom";
-import { About, Contact, Experience, Hero, StarsCanvas, Tech, Works } from "./components";
-import { Navbar } from "./components/navbar";
+import { About, Contact, Experience, Hero, Navbar, StarsCanvas, Tech, Works } from "./components";
 
 // App
 const App = () => {

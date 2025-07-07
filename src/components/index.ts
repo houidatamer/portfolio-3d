@@ -13,7 +13,7 @@ import { Contact } from "./contact";
 import { Experience } from "./experience";
 // import { Feedbacks } from "./feedbacks";
 import { Hero } from "./hero";
-// import { Navbar } from "./navbar";
+import { Navbar } from "./navbar";
 import { Tech } from "./tech";
 import { Works } from "./works";
 
@@ -27,7 +27,7 @@ export {
   Experience,
   // Feedbacks,
   Hero,
-  // Navbar,
+  Navbar,
   StarsCanvas,
   Tech,
   Works,
